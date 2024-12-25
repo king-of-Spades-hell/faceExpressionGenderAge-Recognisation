@@ -42,7 +42,7 @@ This project implements a real-time system to detect faces, classify emotions, e
 ## ▶️ Usage
 Run the script to start the real-time detection:
 ```bash
-python real_time_detection.py
+python main.py
 ```
 Press `q` to exit the video feed.
 
