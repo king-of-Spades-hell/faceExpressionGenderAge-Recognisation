@@ -1,8 +1,7 @@
-📦 Requirements
 
-- Python 3.x
-- OpenCV
-- Keras
-- TensorFlow
-- NumPy
+Python 3.x
+OpenCV
+Keras
+TensorFlow
+NumPy
 
