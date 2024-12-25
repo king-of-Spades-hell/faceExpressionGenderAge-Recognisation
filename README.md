@@ -9,12 +9,6 @@ This project implements a real-time system to detect faces, classify emotions, e
 - **Gender Classification**: Classifies the detected person as Male or Female.
 - **Real-Time Processing**: Processes video input from a webcam.
 
-## 📦 Requirements
-- Python 3.x
-- OpenCV
-- Keras
-- TensorFlow
-- NumPy
 
 ## 📂 Pretrained Models
 - **Haar Cascade Classifier**: For face detection.
